@@ -1,2 +1,10 @@
 Decide which business to order from
+Pull up menu
 Decide which type of pizza to order
+Decide toppings for pizza
+Pick up phone
+Call the restaurant
+Order your pizza
+Pay for your pizza
+Collect the delivered pizza
+Eat the pizza
