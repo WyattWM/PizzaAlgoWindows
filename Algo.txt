@@ -1,5 +1,8 @@
 Decide which business to order from
 Pull up menu
+    use your phone
+    use your computer
+    use a flyer on your fridge
 Choose the pizza that you want
     Choose style of pizza
     Choose the size of the pizza
