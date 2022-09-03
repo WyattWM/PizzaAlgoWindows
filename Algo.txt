@@ -44,4 +44,3 @@ Choose how to order
                 Collect pizza
                 Tip delivery driver
                 Eat pizza
-                Enjoy
