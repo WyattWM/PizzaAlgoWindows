@@ -1,4 +1,5 @@
 Decide which business to order from
+Choose location
 Pull up menu
     use your phone
     use your computer
