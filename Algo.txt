@@ -24,6 +24,7 @@ Choose how to order
                 Pay for pizza
                 Collect pizza
                 Tip delivery driver
+                    Decide amount to tip
                 Eat pizza
     Or decide in person
         Drive to restaurant
@@ -46,4 +47,6 @@ Choose how to order
                 Pay for pizza
                 Collect pizza
                 Tip delivery driver
+                    Decide amount to tip
                 Eat pizza
+Review
