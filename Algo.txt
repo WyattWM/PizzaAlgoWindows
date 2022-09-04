@@ -7,7 +7,11 @@ Pull up menu
     use your computer
     use a flyer on your fridge
 Choose the pizza that you want
-    Choose style of pizza
+    Choose type of pizza
+        Choose thin crust
+        Choose Chicago style
+        Choose stuffed crust
+        Choose regular crust
     Choose the size of the pizza
     Choose toppings for pizza
 Choose how to order
